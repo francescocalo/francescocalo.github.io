@@ -25,9 +25,11 @@ a.english {
 	background-color: fc0303;
 	border-radius: 5% 5% 5% 5%;
 	color: 3800f0;
+	text-decoration: none; 
 	}
 a.italiano {
 	background-color: 217517;
 	border-radius: 5% 5% 5% 5%;
 	color: fc0303;
+	text-decoration: none; 
 	}
