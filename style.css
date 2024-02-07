@@ -27,6 +27,7 @@ a.english {
 	border-radius: 5px;
 	color: 3800f0;
 	text-decoration: none; 
+	text-decoration-style: solid;
 	width: 10%;
 	}
 a.italiano {
@@ -35,5 +36,6 @@ a.italiano {
 	border-radius: 5px;
 	color: fc0303;
 	text-decoration: none; 
+	text-decoration-style: solid;
 	width: 10%;
 	}
