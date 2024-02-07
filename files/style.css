@@ -14,6 +14,8 @@ h2 {
 .table1 {
 	background-color: b7421e;
 	border-radius: 20px 20px 20px 20px;
+	width: auto;
+	height: auto;
 	}
 .table2 {
 	background-color: e5cb98;
