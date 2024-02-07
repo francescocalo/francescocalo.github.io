@@ -22,13 +22,15 @@ h2 {
 	height: auto;
 	}
 a.english {
-	background-color: fc0303;
+	border-color: fc0303;
+	background-color: ffffff;
 	border-radius: 5% 5% 5% 5%;
 	color: 3800f0;
 	text-decoration: none; 
 	}
 a.italiano {
-	background-color: 217517;
+	border-color: 217517;
+	background-color: ffffff;
 	border-radius: 5% 5% 5% 5%;
 	color: fc0303;
 	text-decoration: none; 
