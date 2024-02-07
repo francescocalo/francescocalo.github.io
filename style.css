@@ -26,16 +26,16 @@ a.english {
 	background-color: ffffff;
 	border-radius: 5px;
 	color: 3800f0;
-	text-decoration: none; 
-	text-decoration-style: solid;
+	text-decoration: none;
 	width: 10%;
+	font-width: bold;
 	}
 a.italiano {
 	border:  5px solid #217517;
 	background-color: ffffff;
 	border-radius: 5px;
 	color: fc0303;
-	text-decoration: none; 
-	text-decoration-style: solid;
+	text-decoration: none;
 	width: 10%;
+	font-width: bold;
 	}
