@@ -1,0 +1,41 @@
+body { 
+	background-color: 070c16; 
+	color: fefefc
+	}
+ h1 {
+	 font-family: 'Montserrat', sans-serif;
+	}
+p {
+	font-family: 'Shadows Into Light', cursive;
+	}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	}
+.table1 {
+	background-color: b7421e;
+	border-radius: 20px 20px 20px 20px;
+	}
+.table2 {
+	background-color: e5cb98;
+	border-radius: 20px 20px 20px 20px;
+	width: auto;
+	height: auto;
+	}
+a.english {
+	border:  5px solid #fc0303;
+	background-color: ffffff;
+	border-radius: 5px;
+	color: 3800f0;
+	text-decoration: none;
+	width: 10%;
+	font-width: bold;
+	}
+a.italiano {
+	border:  5px solid #217517;
+	background-color: ffffff;
+	border-radius: 5px;
+	color: fc0303;
+	text-decoration: none;
+	width: 10%;
+	font-width: bold;
+	}
